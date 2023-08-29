@@ -44,7 +44,9 @@ setup(
     install_requires=requirements,
     extras_require={
         "playwright": ["playwright>=1.26", "beautifulsoup4"],
-        "selenium": ["selenium>4", "webdriver_manager<3.9", "beautifulsoup4"],
+        "selenium": ["selenium>4", "webdriver_manager", "beautifulsoup4"],
+        "search-google": ["google-api-python-client==2.94.0"],
+        "search-ddg": ["duckduckgo-search==3.8.5"],
     },
     cmdclass={
         "install_mermaid": InstallMermaidCLI,

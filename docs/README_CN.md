@@ -175,6 +175,11 @@ async def startup(idea: str, investment: float = 3.0, n_round: int = 5):
 
 你可以查看`examples`，其中有单角色（带知识库）的使用例子与仅LLM的使用例子。
 
+## 快速体验
+对一些用户来说，安装配置本地环境是有困难的，下面这些教程能够让你快速体验到MetaGPT的魅力。  
+
+- [MetaGPT快速体验](https://deepwisdom.feishu.cn/wiki/Q8ycw6J9tiNXdHk66MRcIN8Pnlg)
+
 ## 联系信息
 
 如果您对这个项目有任何问题或反馈，欢迎联系我们。我们非常欢迎您的建议！
@@ -188,10 +193,8 @@ async def startup(idea: str, investment: float = 3.0, n_round: int = 5):
 
 https://github.com/geekan/MetaGPT/assets/2707039/5e8c1062-8c35-440f-bb20-2b0320f8d27d
 
-## 加入微信讨论群
+## 加入我们
 
-<img src="resources/MetaGPT-WeChat-Group4.jpeg" width = "30%" height = "30%" alt="MetaGPT WeChat Discuss Group" align=center />
+📢 加入我们的Discord频道！https://discord.gg/4WdszVjv
 
-如果群已满，请添加负责人微信，会邀请进群
-
-<img src="resources/MetaGPT-WeChat-Personal.jpeg" width = "30%" height = "30%" alt="MetaGPT WeChat Discuss Group" align=center />
+期待在那里与您相见！🎉
